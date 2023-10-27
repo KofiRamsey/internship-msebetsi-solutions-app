@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "54017216054",
+    "project_id": "healthride-11786",
+    "storage_bucket": "healthride-11786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54017216054:android:81cbe8fe8d39946fd7d297",
+        "android_client_info": {
+          "package_name": "com.codingstuff.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54017216054-6lsqppuo5025af1o0dev6r6s1p9c7k1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eHetLxeBQDQNdVOzZoJ08mCMQB8-LjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54017216054-6lsqppuo5025af1o0dev6r6s1p9c7k1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54017216054:android:28c9c88d5c217a97d7d297",
+        "android_client_info": {
+          "package_name": "com.example.healthride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54017216054-6lsqppuo5025af1o0dev6r6s1p9c7k1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eHetLxeBQDQNdVOzZoJ08mCMQB8-LjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54017216054-6lsqppuo5025af1o0dev6r6s1p9c7k1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
